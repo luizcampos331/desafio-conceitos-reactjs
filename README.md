@@ -33,10 +33,10 @@ Aplicaçào ReactJS criada para o desafio do curso GoStack da Rocketseat
 Pelo seu terminal, escolha um local para o projeto e rode os comandos:
 ```bash
   # Clonar o repositório
-  $ git clone https://github.com/luizcampos331/desafio-conceitos-node.git
+  $ git clone https://github.com/luizcampos331/desafio-conceitos-reactjs.git
 
   # Entrar no diretório
-  $ cd desafio-conceitos-node
+  $ cd desafio-conceitos-reactjs
 
   # Instalar dependências
   $ yarn
